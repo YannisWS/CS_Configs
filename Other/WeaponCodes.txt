@@ -1,0 +1,53 @@
+"givecurrentammo" Gives you ammo to your current gun 
+
+
+//Primary Weapons 
+
+"give weapon_m4a1_silencer" Gives you an M4A1-S 
+"give weapon_m4a1" Gives you an M4 
+"give weapon_ak47" Gives you an AK-47 
+"give weapon_aug" Gives you an AUG 
+"give weapon_awp" Gives you an AWP
+"give weapon_bizon" Gives you a PP-Bizon 
+"give weapon_famas" Gives you a FAMAS 
+"give weapon_gs3sg1" Gives you T Auto-Sniper 
+"give weapon_galilar" Gives you the Galil AR 
+"give weapon_m249" Gives you an M249 
+"give weapon_mac10" Gives you a MAC10 
+"give weapon_mag7" Gives you a Mag-7/Swag-7 
+"give weapon_mp7" Gives you an MP7 
+"give weapon_mp9" Gives you an MP9 
+"give weapon_negev" Gives you a Negev 
+"give weapon_nova" Gives you a Nova 
+"give weapon_scar20" Gives you a SCAR-20/Auto-sniper 
+"give weapon_sg556" Gives you an SG556 
+"give weapon_ssg08" Gives you an SSG08 
+"give weapon_ump45" Gives you a UMP 
+"give weapon_xm1014" Gives you an XM1014/ Auto-Shottie 
+
+
+//Secondary Weapons 
+
+"give weapon_deagle" Gives you a Deset Eagle 
+"give weapon_elite" Gives you the Dual Barettas 
+"give weapon_fiveseven" Gives you a Five-Seven 
+"give weapon_glock" Gives you the Glock-18 
+"give weapon_hkp2000" Gives you a p2000 
+"give weapon_tec9" Gives you a Tec-9 
+
+
+//Grenades + Extras
+ 
+"give weapon_hegrenade" Gives you an HE Grenade 
+"give weapon_c4" Gives you the bomb 
+"give weapon_flashbang" Gives you a Flashbang 
+"give weapon_incgrenade" Gives you an Fire Grenade (CT) 
+"give weapon_molotov" Gives you a Molotov (T)
+"give weapon_smokegrenade" Gives you a Smoke
+"give weapon_vest" Gives you a Kevlar
+"give weapon_vesthelm" Gives you a Kevlar & Helmet
+"give defuser" Gives you a Defuser Kit
+
+
+//KNEIVES 
+give weapon_knife_css; ent_fire weapon_knife addoutput "classname weapon_knifegg"
